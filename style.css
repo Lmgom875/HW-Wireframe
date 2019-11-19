@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+header {
+    background: #ebebeb;
+}
+
+body {
+    background: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    width: 960px;
+    font-size: 18px;
+    margin-left: 15%;
+    
+}
+
+#nav {
+    background: #ebebeb;
+}
+
+#section {
+    background: #ebebeb;
+}
+
+#aside {
+    background: #ebebeb;
+}
+
+footer {
+    background: #ebebeb;
+}
+
+#article {
+    background: #777;
+    color: #ebebeb;
+}
+
+#H1-H2-H3 {
+    background: #ebebeb;
+    color: #777;
+}
+
+#p {
+    background: #ebebeb;
+    color: #777;
+}
